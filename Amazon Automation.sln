@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon Automation", "Amazon Automation\Amazon Automation.csproj", "{1D89703D-80CF-4C88-B864-18FCA3A6E81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D89703D-80CF-4C88-B864-18FCA3A6E81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D89703D-80CF-4C88-B864-18FCA3A6E81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D89703D-80CF-4C88-B864-18FCA3A6E81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D89703D-80CF-4C88-B864-18FCA3A6E81B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4AD847-0326-4A78-AB60-4EE7BE881460}
+	EndGlobalSection
+EndGlobal
